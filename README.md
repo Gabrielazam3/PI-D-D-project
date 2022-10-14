@@ -1,0 +1,12 @@
+# PI-D-D-project
+This is a really basic form of a project made in portugol for my PI. It works using many filters to help players and DM's to find the classes, races and other info they looking for. 
+the following description is in portuguese, my primary language.
+
+Case: O sistema tem como objetivo auxiliar jogadores do jogo de mesa “D&D” durante sua produção de personagem e historia. Através do aplicativo o usuário terá acesso a uma serie de informações disponíveis para a produção, incluindo ofícios, raças e antecedentes originais da empresa. Todos estes parâmetros para a produção de personagem estarão separados por uma serie de tags que irão subdividi-los para facilitar a experiência do usuário. 
+
+O usuário ira começar o processo acessando o programa. A interface simples terá 4 opções: “Gerador Aleatório”, “procurar”, “adicionar informação” e “sair”. 
+Clicando na opção “Gerador Aleatorio”, sera exibido ao usuário uma serie de parâmetros aleatórios para a produção de seu personagem. Estes parâmetros vao estar dentro dos já vindos no sistema ou os adicionados pelo usuário.
+Clicando na opção “Adicionar Informação” o usuário terá a opção de adicionar algum novo parâmetro ao sistema. Uma nova janela ira se abrir dando a ele a opção de digitar o nome desse parâmetro, tipo e escolher em quais das tags disponíveis ele se encontra. Ao finalizar suas escolhas, o usuário clicara no botão de conclusão e o sistema ira salvar o novo parâmetro. Após adicionar a nova informação, o usuário sera levado para a pagina principal novamente  
+Ao clicar em “Procurar” o usuário sera levado para uma nova pagina onde ele terá a opção de escolher que tipo de parâmetro ele deseja encontrar, sendo estes “raça”, “antecedente”, “talento” ou “subclasse”. Ao escolher um destes parâmetros, o usuário sera levado para uma outra janela onde ele pode escolher quais tags ele deseja, dentre estas tendo opções como em qual livro aquele parâmetro fora lançado, utilidades do parâmetro, entre outras. Após escolher todos estes atributos, o usuário sera levado a uma pagina onde serão mostrados todas as opções compatíveis a sua pesquisa. Junto as opções haverá uma opção de retornar a pesquisa ou a pagina principal
+Ao clicar em sair, o sistema ira fechar
+O sistema sera simples e com uma fonte levemente fantasiosa para seus títulos para uma imersão durante o uso, porem os parâmetros recebidos estarão em fonte padrão.
